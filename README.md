@@ -85,3 +85,9 @@ To collaborate:
 1. Clone the repo.
 2. Create a branch.
 3. Push changes and create a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
